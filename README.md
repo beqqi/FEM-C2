@@ -53,7 +53,7 @@ As this is just my 2nd challenge, I didn't bother to make the layout responsive 
 
 ## Author
 
-- Website - https://beqqi.github.io/FEM-C2/ 
+- Website - https://beqqi.github.io/FEM-C2/
 - Frontend Mentor - https://www.frontendmentor.io/profile/beqqi
 
 
